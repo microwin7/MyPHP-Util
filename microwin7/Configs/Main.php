@@ -37,11 +37,11 @@ class Main
     ];
     public const MODULES = [
         'LuckPerms' => [
-            'DBNAME' => 'LuckPerms',
+            'DB_NAME' => 'LuckPerms',
             'prefix' => 'luckperms_',
         ],
         'LiteBans' => [
-            'DBNAME' => 'LiteBans',
+            'DB_NAME' => 'LiteBans',
             'prefix' => 'litebans_',
         ],
     ];
